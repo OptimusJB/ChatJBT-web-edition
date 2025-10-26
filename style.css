@@ -1,0 +1,29 @@
+body{
+    background-color: #292929;
+}
+
+p{
+    color: white;
+    background-color: #5c5c5c;
+    margin-bottom: 20px;
+    border: 15px solid #5c5c5c;
+    width:fit-content;
+}
+
+#divquestion{
+    margin-right: 50px;
+}
+
+#reponse{
+    margin-left: 50px;
+}
+h1{
+    color: white;
+}
+
+#prompt{
+    background-color: #454545;
+    color: white;
+    resize: none;
+    width: 800px;
+}
